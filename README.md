@@ -9,6 +9,6 @@ User interface for LilyGO T-Watch that focuses on features for gym goers.
 + Plate Calculator ❌
 + Log/Load Workouts ❌
   
-  This will be implemented alongside a web app so users can share workouts and track progress.
+  This will be implemented alongside a web app so users can share workouts and track progress (think Strava for lifters).
 
 ## Gallery
